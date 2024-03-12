@@ -31,14 +31,14 @@ return [
     ],
 
     'firebase' => [
-        'api_key' => 'AIzaSyBJoH81rnaKPTzLH0H0q9j0UZ2pmBLHpAE',
-        'auth_domain' => 'adgari.firebaseapp.com',
-        'database_url' => 'https://adgari-default-rtdb.firebaseio.com',
-        'project_id' => 'adgari',
-        'storage_bucket' => 'adgari.appspot.com',
-        'messaging_sender_id' => 'adgari.appspot.com',
-        'app_id' => '1:734310476350:web:152a96dcfd605afa7bbf6f',
-        'measurement_id' => 'G-KHG6LHV36R',
+        'api_key' => '',
+        'auth_domain' => '',
+        'database_url' => '',
+        'project_id' => '',
+        'storage_bucket' => '',
+        'messaging_sender_id' => '',
+        'app_id' => '',
+        'measurement_id' => '',
     ],
 
 //    'facebook' => [
